@@ -12,4 +12,7 @@ django-admin startproject myhome .
 python manage.py runserver
 ```
 
+## 002 Your First HTML Webpage with Python Functions
+
+[https://www.youtube.com/watch?v=WbNNESIxJnY&t=1137s]
 
