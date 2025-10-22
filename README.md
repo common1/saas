@@ -26,3 +26,10 @@ python manage.py runserver
 ```bash
 ```
 
+## 04 Using Django Templates
+
+[https://www.youtube.com/watch?v=WbNNESIxJnY&t=2013s]
+
+```bash
+```
+
