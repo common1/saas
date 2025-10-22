@@ -16,3 +16,13 @@ python manage.py runserver
 
 [https://www.youtube.com/watch?v=WbNNESIxJnY&t=1137s]
 
+```bash
+```
+
+## 03 Rending HTML Documents
+
+[https://www.youtube.com/watch?v=WbNNESIxJnY&t=1707s]
+
+```bash
+```
+
