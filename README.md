@@ -51,9 +51,18 @@ python manage.py migrate
 python manage.py runserver
 ```
 
-# 07  Store and Retrieve Data Part 2
+## 07  Store and Retrieve Data Part 2
 
 [https://www.youtube.com/watch?v=WbNNESIxJnY&t=3839s]
 
 ```bash
+```
+
+## 08 Push to GitHub via Git
+
+[https://www.youtube.com/watch?v=WbNNESIxJnY&t=4277s]
+
+```bash
+git status
+
 ```
