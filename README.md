@@ -66,3 +66,11 @@ python manage.py runserver
 git status
 
 ```
+
+## 09 Prepare for Production Environment
+
+[https://www.youtube.com/watch?v=WbNNESIxJnY&t=4692s]
+
+```bash
+```
+
