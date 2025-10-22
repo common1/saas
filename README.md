@@ -51,3 +51,9 @@ python manage.py migrate
 python manage.py runserver
 ```
 
+# 07  Store and Retrieve Data Part 2
+
+[https://www.youtube.com/watch?v=WbNNESIxJnY&t=3839s]
+
+```bash
+```
