@@ -39,3 +39,15 @@ python manage.py runserver
 
 ```bash
 ```
+
+## 06 Store and Retrieve Data Part 1
+
+[https://www.youtube.com/watch?v=WbNNESIxJnY&t=3219s]
+
+```bash
+python manage.py startapp visits
+python manage.py makemigrations
+python manage.py migrate
+python manage.py runserver
+```
+
