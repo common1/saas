@@ -33,3 +33,9 @@ python manage.py runserver
 ```bash
 ```
 
+## 05 Django Template Inheritance, Conditions, & Include
+
+[https://www.youtube.com/watch?v=WbNNESIxJnY&t=2626s]
+
+```bash
+```
