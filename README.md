@@ -81,8 +81,24 @@ git status
 [https://github.com/codingforentrepreneurs/SaaS-Foundations/tree/section-1]
 
 [https://saas-production-e85f.up.railway.app/]
-[]
 
 ```bash
+```
+
+## 11 The Hard Way to Manage Environment Variables
+
+[https://www.youtube.com/watch?v=WbNNESIxJnY&t=6117s]
+
+```bash
+```
+
+## 12 dotenv and Python Decouple to Manage Environment Variables
+
+[https://www.youtube.com/watch?v=WbNNESIxJnY&t=6480s]
+
+[https://www.codingforentrepreneurs.com/blog/create-a-one-off-django-secret-key]
+
+```bash
+python -c 'from django.core.management.utils import get_random_secret_key; print(get_random_secret_key())'
 ```
 
